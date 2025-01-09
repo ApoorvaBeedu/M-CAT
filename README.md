@@ -1,2 +1,2 @@
 # M-CAT
-Text Descriptions of Actions and Objects Improve  Action Anticipation
+Codebase for "Text Descriptions of Actions and Objects Improve Action Anticipation" (ICASSP 2025).
